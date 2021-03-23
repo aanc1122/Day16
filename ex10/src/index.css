@@ -69,6 +69,10 @@ html, body {
     font-size: 13px;
     margin-left: 23px;
     margin-bottom: 31px;
+    
+  }
+  ul {
+    padding-left: 20px;
   }
   code {
     display: block;
